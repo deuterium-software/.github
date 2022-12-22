@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Deuterium Software ⚙</h1><br />
-   <h2>⚡ <b>Supercharging</b> ⚡ your terminal.</h2><br /><br />
+   <h3>⚡ <b>Supercharging</b> ⚡ your terminal.</h3><br /><br />
   
   <img src="https://github.com/deuterium-software/.github/blob/main/profile/dark.png?raw=true" alt="DeuteriumSoftware Logo (dark mode)" width="128" height="128"><br /><br />
 
