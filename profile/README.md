@@ -1,6 +1,6 @@
 <div align="center">
-  # Deuterium Software ⚙
-  ⚡ <b>Supercharging</b> ⚡ your terminal.
+  <h1>Deuterium Software ⚙<h1><br />
+  ⚡ <b>Supercharging</b> ⚡ your terminal.<br />
   
   <img src="https://github.com/deuterium-software/.github/blob/main/profile/dark.png?raw=true" alt="DeuteriumSoftware Logo (dark mode)" width="128" height="128">
 
@@ -13,4 +13,4 @@ Deuterium is made to speed up basic tasks in your terminal, and create magnifice
 ## Our Products
 - Deuterium: Supercharge your Terminal
 - DHydrogen: The lighter way to save.
-- DTools<sup>in development;) </sup>: Tools for the Deuterium Software Ecosystem
+- DTools<sup>in development</sup>: Tools for the Deuterium Software Ecosystem
