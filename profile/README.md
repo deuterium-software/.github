@@ -2,7 +2,7 @@
   <h1>Deuterium Software ⚙</h1><br />
    <h2>⚡ <b>Supercharging</b> ⚡ your terminal.</h2><br /><br />
   
-  <img src="https://github.com/deuterium-software/.github/blob/main/profile/dark.png?raw=true" alt="DeuteriumSoftware Logo (dark mode)" width="128" height="128">
+  <img src="https://github.com/deuterium-software/.github/blob/main/profile/dark.png?raw=true" alt="DeuteriumSoftware Logo (dark mode)" width="128" height="128"><br /><br />
 
   <a href="https://discord.gg/UEB6SWzfV7">![Deuterium Discord](https://img.shields.io/discord/1033847467655053332?style=for-the-badge&logo=discord&label=DISCORD&color=blue)</a> <a href="https://github.com/AregPrograms/Deuterium/releases/tag/BETA"><a href="https://getdeuterium.win">![Deuterium Website](https://img.shields.io/static/v1?label=WEBSITE&message=getdeuterium.win&color=%3CCOLOR%3E&style=for-the-badge&logo=html5)</a>
 </div>
