@@ -13,3 +13,7 @@ Deuterium is made to speed up basic tasks in your terminal, and create magnifice
 - Deuterium: Supercharge your Terminal
 - DHydrogen: The lighter way to save.
 - DTools <sup>in development</sup>: Tools for the Deuterium Software Ecosystem
+
+## Developers
+- Areg Harutyunyan ((aregprograms))[https://github.com/AregPrograms]
+- Jase Williams ((jased-0001))[https://github.com/jased-0001]
